@@ -1,0 +1,15 @@
+.recent{
+    background-color: #1b204a;
+    color: white;
+}
+
+.recent-inner{
+    background-color: #121843;
+    color:white;
+}
+
+.btn-activity{
+    background-color: #e74e4e;
+    border-radius: 5px;
+    padding:5px 20px;
+}
